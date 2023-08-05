@@ -1,10 +1,10 @@
 @import url("https://raw.githubusercontent.com/xcruxiex/themes/master/themes-files/neutron.theme.css");
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css'); 
-@import url('https://fonts.googleapis.com/css2?family=Courgette');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono');
 :root {
 --themeColor1: rgb(255, 255, 255);
 --themeColor2: rgb(56, 56, 56);
---customFont: 'Courgette';
+--customFont: 'Roboto Mono';
 --homeImage: url('https://raw.githubusercontent.com/iraxus1/Discord-Themes/main/BerserkCollection/images/berserk-gif.gif');
 --homeImageSize: cover;
 --backgroundColor: #47474743;
